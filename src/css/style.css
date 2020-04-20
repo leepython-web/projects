@@ -1,6 +1,29 @@
 h1, h2{
     text-align: center;
+    color: darkslategrey;
+    border: 2px solid #0069b5;/* задаю рамки */
+    border-radius: 14px;
+    padding: 10px;
 }
-main{
+body{
     background-color: #99CCCC;
+}
+nav{
+    background-color: rgba(102, 153, 153, 0.5);/* полупрозрачный фон */
+    position: fixed;/* фиксация положения относительно окна браузера */
+    right: 0px;
+    top: 10px;
+}
+.notes{
+    font-weight: bold;/* текст становится жирным */
+    font-style: italic;/* текст становится курсивным */
+}
+#note3{
+    text-decoration: line-through;/* зачеркнутый текст */
+}
+.tolkin, .notes-in-text{
+    font-weight: bold;
+}
+.sauron{
+    text-decoration: underline;/* подчеркнутый текст */
 }
