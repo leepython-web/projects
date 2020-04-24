@@ -13,3 +13,30 @@
     width: 376px;
     height: 375px;
 }
+.header_text{
+    display: inline-block;
+    width: 178px;
+    height: 22px;
+    color: #2f2f2f;
+    font-family: "Arial - Bold MT";
+    font-size: 23px;
+    font-weight: 400;
+}
+.price{
+    inline-block
+    width: 35px;
+    height: 14px;
+    color: #2f2f2f;
+    font-family: "Arial MT";
+    font-size: 15px;
+    font-weight: 400;
+}
+.text{ 
+    display: inline-block;
+    width: 393px;
+    height: 50px;
+    color: #2f2f2f;
+    font-family: "Arial MT";
+    font-size: 15px;
+    font-weight: 400;
+}
