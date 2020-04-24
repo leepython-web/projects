@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+.main_box{
+    display: inline-block;
+    width: 1010px;
+    height: 503px;
+    border: 1px solid #d7d7d7;
+    background-color: #ffffff;
+}
+.beats{
+    display: inline-block;
+    width: 376px;
+    height: 375px;
+}
