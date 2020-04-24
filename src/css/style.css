@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}/* позволяет устанавливать размеры для всего блока,а не только его содержимого */
 h1, h2{
     text-align: center;
     color: darkslategrey;
